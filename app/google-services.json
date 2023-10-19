@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664180557119",
+    "project_id": "testauthenticationfireba-ddced",
+    "storage_bucket": "testauthenticationfireba-ddced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664180557119:android:6a28e339d828308f58ff8a",
+        "android_client_info": {
+          "package_name": "com.example.testauthenticationfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLybKYNlzi8hpk3MhnaGweA8z5QryD2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
